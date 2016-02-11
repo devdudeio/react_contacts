@@ -1,4 +1,4 @@
-## complete code from react levelup tutorials`
+## complete code from react levelup tutorials
 
 - react
 - webpack
@@ -6,8 +6,8 @@
 
 ### install dependencies
 
-```npm init && npm install```
+`npm init && npm install`
 
 ### run server
 
-```node_modules/.bin/webpack-dev-server```
+`node_modules/.bin/webpack-dev-server`
